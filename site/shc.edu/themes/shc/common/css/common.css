@@ -6,7 +6,7 @@
 body {
 	/* Site-wide page background color, and base font family, size and line spacing */
 	background-color: @@@body_background_color@@@;
-	background-image: @@@body_background_image@@@;
+	background-image: @@@body_background_image@@@ ;
 	font: @@@base_font_size@@@/1.33em @@@primary_font_family@@@;
 }
 
@@ -263,7 +263,8 @@ dt, .label, .legend, .legend h2, .legend h3, .searchlegend {
 .emphasized  .forminput {
   /* Border color should match the border color of image /common/images/compliant/search_button.png */
   /* Border weight should be 2px greater than border weight of .inputcombo .forminput */
-	border: 3px solid @@@search_border_color@@@;	
+	/*border: 3px solid @@@search_border_color@@@;*/
+	border: none;	
 	/* Corner radius should be 2px greater than corner radius of .inputcombo .forminput */
 	-webkit-border-bottom-left-radius: 10px; 		
 	-webkit-border-top-left-radius: 10px;	
