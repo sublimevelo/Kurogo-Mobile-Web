@@ -339,5 +339,8 @@ h1.slugline, h2.itemtitle {
 	border-color: #c00;
 }
 
+.noMobile {
+	display: none;
+}
 
 
