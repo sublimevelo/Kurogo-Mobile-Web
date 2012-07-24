@@ -494,7 +494,7 @@ class MapWebModule extends WebModule {
             }
 
             if ($this->isMapDrivenUI() && $placemarkLoad
-                && $placemarkLoad <= $this->getOptionalModuleVar('placemarkLoad', 30))
+                && $placemarkLoad <= $this->getOptionalModuleVar('placemarkLoad', 60))
             {
                 $mapArgs = array_merge($this->args, $linkOptions);
                 if (isset($mapArgs['listview'])) {
