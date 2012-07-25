@@ -70,24 +70,124 @@ h1#homelogo {
    margin: 0;
     height: 60px;
    padding: 4px;
-}
-
-
-#container {
-   background: #B3A2CE url("common/images/headerdecoration.png") no-repeat;
-	background-size:  100%;
-}
+}/*HomePage Headerbar*/
 
 .homemodule #container {
 	background: url("common/images/homeback.jpg");
 	background-size: 100% 100%;
 	background-color: #49176D;
+/*HomePage background*/
 }
+
+#container {
+	background: #B3A2CE url("common/images/headerdecoration.png") no-repeat;
+	background-size:  100%;
+/*headerdecoration for most pages*/
+}
+
 #navbar {
 	margin: 0;
+/*header margin*/
 }
+
 .nonfocal {
 	margin-top: 0;
 	padding-top: 12px;
+/*searchbar sizing and border loss*/
+}
+#searchformcontainer {
+	clear: both;
+/*searchbar positioning due to float*/
+}
+.searchwrapper .forminput {
+	font-family: Georgia, Times New Roman, Serif;
+	padding: 6px 4px 8px 9px;
+
+}
+fieldset {
+	padding: 1px;
+}
+fieldset select {
+	 font-family: Georgia, Times New Roman, serif;
+ }
+	
+.emphasized .forminput {
+	border: 1px solid #B3A2CE;
+	height: 20px;
 }
 
+.inputcombo .forminput {
+	height: 20px;
+}
+
+.results li.story a .ellipsis {
+	font-family: Arial, Helvetica, sans-serif !important;
+	font-size: 80% !important;
+/*NewsModule story snippets*/
+}
+
+.results li.story a .title {
+	font-family: Georgia, Times New Roman, serif !important;
+	font-size: 126% !important;
+/*NewsModule story snippets*/
+}
+
+form fieldset select {
+    background-color: #FFFFFF;
+    border: 1px solid #B3A2CE;
+/*dropdown bars*/
+}
+
+#nonfooternav ul.nav {
+    margin-top: 0px;
+    position: relative; top: 12px;
+/*header decoration positioning for admissions and about */
+}
+
+.EmergencyModule #nonfooternav #container .focal {
+     margin-top: 0px;
+     position: relative; top: 12px;
+/*header decoration positioning*/
+}
+
+ .news h1.slugline, h2.itemtitle {
+    font-size: 142% !important;
+/*news item title */
+}
+
+#search-form #search_terms {
+     font-family: Georgia, Times New Roman, serif;
+     padding: 5px;
+/*map searchbar*/
+}
+
+#campus-select td.inputfield select {
+     font-family: Georgia, Times New Roman, serif;
+/*map dropdown bar*/
+}
+
+#searchbar-buttons div input{
+     font-family: Georgia, Times New Roman, serif;
+     color: #B3A2CE !important;
+/*map search buttons*/
+}
+
+#footerlinks a {
+    color: #49176D !important;
+/*Footer navigation*/
+}
+
+#footerlinks, #footer {
+    text-align: center;
+/*footer stuff centered*/
+}
+
+h3.nonfocal {/*Athletics Module news title*/
+     background-color: #FFFFFF;
+     padding: 6px;
+     padding-bottom: 12px;
+     border-radius: 9px;
+}
+ul.results {
+   margin-top: 0px;
+}

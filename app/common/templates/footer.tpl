@@ -44,7 +44,7 @@
     </div>
   {/block}
 
-  {block name="deviceDetection"}
+ <!-- {block name="deviceDetection"}
     {if $configModule == $homeModuleID && $showDeviceDetection}
       <table class="devicedetection">
         <tr><th>Pagetype:</th><td>{$pagetype}</td></tr>
@@ -52,9 +52,9 @@
         <tr><th>User Agent:</th><td>{$smarty.server.HTTP_USER_AGENT}</td></tr>
       </table>
     {/if}
-  {/block}
+  {/block}-->
 
-  {block name="footerJavascript"}
+  <!-- {block name="footerJavascript"}
     {foreach $inlineJavascriptFooterBlocks as $script}
       <script type="text/javascript">
         {$script} 
@@ -77,7 +77,7 @@
             -->
         </script>
     {/if}
-  {/block}
+  {/block}-->
 {block name="containerEnd"}
 </div>
 </div> <!--nonfooternav -->
