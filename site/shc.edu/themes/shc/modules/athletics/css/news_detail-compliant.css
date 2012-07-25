@@ -2,3 +2,9 @@ body.NewsModule #navbar, .news {
 	/* Background color for news listing and story; should be white in most cases */
     background-color: @@@focal_background_color@@@;	
 }
+
+/*.emphasized .forminput {
+	border: 1px solid #B3A2CE;
+	height: 18px;
+	
+}*/
