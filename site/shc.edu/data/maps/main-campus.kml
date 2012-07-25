@@ -1,0 +1,1398 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>shc-buildings.kml</name>
+	<StyleMap id="msn_purple-circle">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_purple-circle</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_purple-circle</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_purple-circle">
+		<IconStyle>
+			<w>32</w>
+			<h>32</h>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/purple-circle.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/purple-circle-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_purple-circle">
+		<IconStyle>
+			<w>32</w>
+			<h>32</h>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/purple-circle.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/purple-circle-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	
+	
+	
+	
+		
+		<Folder>
+			<name>Building</name>
+			
+				
+				<Placemark>
+					<name>Arlene Mitchell Theater</name>
+					<description><![CDATA[  <p class="description">Performing Arts Theater</p><h2>Building Directory</h2><div class="directory"><br>
+</div> <h2>Tags</h2><div class="tags">drama,plays,dance</div> ]]></description>
+					<styleUrl>#msn_purple-circle</styleUrl>
+					
+						
+						<Point>
+							<coordinates>-88.13555692458065,30.69130646940123,0</coordinates>
+						</Point>
+						
+					
+					
+				</Placemark>
+				
+			
+				
+				<Placemark>
+					<name>Arthur R. Outlaw Recreation Center</name>
+					<description><![CDATA[  <p class="description">Athletic Offices, Cafeteria, Intercollegiate Basketball, Student Recreation</p><h2>Building Directory</h2><div class="directory"><ul>
+	<li>
+		Intercollegiate Basketball
+	</li>
+	<li>
+		Student Recreation
+	</li>
+	<li>
+		Weight-Training Room, Basketball Court, Racquetball Courts, Aerobic Exercise Room, Staff Offices
+	</li>
+</ul>
+</div> <h2>Tags</h2><div class="tags">food, athletics, Baseball, Basketball, Cross Country, Golf, Soccer, Softball, Tennis ,Volleyball</div> ]]></description>
+					<styleUrl>#msn_purple-circle</styleUrl>
+					
+						
+						<Point>
+							<coordinates>-88.1347122267195,30.69183374617418,0</coordinates>
+						</Point>
+						
+					
+					
+				</Placemark>
+				
+			
+				
+				<Placemark>
+					<name>Burke Memorial Library</name>
+					<description><![CDATA[  <p class="description">Library, ITS, Java City</p><h2>Building Directory</h2><div class="directory"><ul>
+	<li>
+		Ground floor
+		<ul style="padding-bottom: 0px; padding-top: 0px;">
+			<li>
+				Book Nook
+				<ul style="padding-bottom: 0px; padding-top: 0px;">
+					<li>
+						Buy, sell and trade used fiction, nonfiction and paperback books.
+					</li>
+				</ul>
+			</li>
+		</ul>
+	</li>
+	<li>
+		First floor
+		<ul style="padding-bottom: 0px; padding-top: 0px;">
+			<li>
+				Circulation
+			</li>
+			<li>
+				Information Technology Services (ITS)
+			</li>
+			<li>
+				ITS Helpdesk
+			</li>
+		</ul>
+	</li>
+	<li>
+		Second floor
+		<ul style="padding-bottom: 0px; padding-top: 0px;">
+			<li>
+				Administrative Information Services
+			</li>
+			<li>
+				Library Archives
+			</li>
+		</ul>
+	</li>
+	<li>
+		Ground level, first and second floors
+		<ul style="padding-bottom: 0px; padding-top: 0px;">
+			<li>
+				Classrooms
+			</li>
+			<li>
+				Computer Labs
+			</li>
+			<li>
+				Quiet Rooms
+			</li>
+			<li>
+				Administrative Offices
+			</li>
+		</ul>
+	</li>
+	<li>
+		Attached to Library
+		<ul style="padding-bottom: 0px; padding-top: 0px;">
+			<li>
+				Java City
+				<ul style="padding-bottom: 0px; padding-top: 0px;">
+					<li>
+						Gourmet coffee and tea, sandwiches, drinks and snacks
+					</li>
+				</ul>
+			</li>
+		</ul>
+	</li>
+</ul>
+</div> <h2>Tags</h2><div class="tags">books, food, eat, snack, vending</div> ]]></description>
+					<styleUrl>#msn_purple-circle</styleUrl>
+					
+						
+						<Point>
+							<coordinates>-88.13643783477805,30.69427622424515,0</coordinates>
+						</Point>
+						
+					
+					
+				</Placemark>
+				
+			
+				
+				<Placemark>
+					<name>Business Annex</name>
+					<description><![CDATA[  <p class="description">&lt;br&gt;
+</p> <h2>Tags</h2><div class="tags">business, money, cashier</div> ]]></description>
+					<styleUrl>#msn_purple-circle</styleUrl>
+					
+						
+						<Point>
+							<coordinates>-88.13747164631567,30.69331801556017,0</coordinates>
+						</Point>
+						
+					
+					
+				</Placemark>
+				
+			
+				
+				<Placemark>
+					<name>Byrne Memorial Hall</name>
+					<description><![CDATA[  <p class="description">Alumni, Communications, Development</p><h2>Building Directory</h2><div class="directory"><ul>
+	<li>
+		First floor
+		<ul style="padding-bottom: 0px; padding-top: 0px;">
+			<li>
+				Alumni Programs
+				<ul style="padding-bottom: 0px; padding-top: 0px;">
+					<li>
+						Alumni relations
+					</li>
+				</ul>
+			</li>
+			<li>
+				Development Office
+				<ul style="padding-bottom: 0px; padding-top: 0px;">
+					<li>
+						251-380-2280, 877-SPR-HILL (877-777-4455)
+					</li>
+					<li>
+						Annual giving, development services, major gifts, planned giving
+					</li>
+				</ul>
+			</li>
+		</ul>
+	</li>
+	<li>
+		Second floor
+		<ul style="padding-bottom: 0px; padding-top: 0px;">
+			<li>
+				Great Room
+				<ul style="padding-bottom: 0px; padding-top: 0px;">
+					<li>
+						Special events and meetings
+					</li>
+				</ul>
+			</li>
+		</ul>
+	</li>
+	<li>
+		Third Floor
+		<ul style="padding-bottom: 0px; padding-top: 0px;">
+			<li>
+				Communications and Institutional Marketing
+				<ul style="padding-bottom: 0px; padding-top: 0px;">
+					<li>
+						Publications, marketing, media relations, advertising, Web development
+					</li>
+				</ul>
+			</li>
+		</ul>
+	</li>
+</ul>
+</div> <h2>Tags</h2><div class="tags">wedding, reception</div> ]]></description>
+					<styleUrl>#msn_purple-circle</styleUrl>
+					
+						
+						<Point>
+							<coordinates>-88.14033099585974,30.69602136299572,0</coordinates>
+						</Point>
+						
+					
+					
+				</Placemark>
+				
+			
+				
+				<Placemark>
+					<name>Deignan Hall</name>
+					<description><![CDATA[  <p class="description">Chemistry Department</p><h2>Building Directory</h2><div class="directory"><ul>
+	<li>
+		Classrooms
+	</li>
+	<li>
+		Labs
+	</li>
+	<li>
+		Faculty Offices
+	</li>
+</ul>
+</div>  ]]></description>
+					<styleUrl>#msn_purple-circle</styleUrl>
+					
+						
+						<Point>
+							<coordinates>-88.14024176189454,30.69455310990755,0</coordinates>
+						</Point>
+						
+					
+					
+				</Placemark>
+				
+			
+				
+				<Placemark>
+					<name>Fairway Apartments A - Rubin Hall </name>
+					<description><![CDATA[  <p class="description">Student Residence - apartment living, consisting of four bedroom units</p><h2>Building Directory</h2><div class="directory"><br>
+</div> <h2>Tags</h2><div class="tags">dorm</div> ]]></description>
+					<styleUrl>#msn_purple-circle</styleUrl>
+					
+						
+						<Point>
+							<coordinates>-88.13989955830385,30.6932467705609,0</coordinates>
+						</Point>
+						
+					
+					
+				</Placemark>
+				
+			
+				
+				<Placemark>
+					<name>Fairway Apartments B - Andrews Hall</name>
+					<description><![CDATA[  <p class="description">Student Residence - apartment living, consisting of four bedroom units</p><h2>Building Directory</h2><div class="directory"><br>
+</div> <h2>Tags</h2><div class="tags">dorm, </div> ]]></description>
+					<styleUrl>#msn_purple-circle</styleUrl>
+					
+						
+						<Point>
+							<coordinates>-88.13952143977856,30.69293877303155,0</coordinates>
+						</Point>
+						
+					
+					
+				</Placemark>
+				
+			
+				
+				<Placemark>
+					<name>Fairway Apartments C - Langley Hall</name>
+					<description><![CDATA[  <p class="description">Student Residence - Langley Hall</p><h2>Building Directory</h2><div class="directory"><br>
+</div> <h2>Tags</h2><div class="tags">dorm, </div> ]]></description>
+					<styleUrl>#msn_purple-circle</styleUrl>
+					
+						
+						<Point>
+							<coordinates>-88.13926912296633,30.69258752690898,0</coordinates>
+						</Point>
+						
+					
+					
+				</Placemark>
+				
+			
+				
+				<Placemark>
+					<name>Fine and Performing Arts Center / Eichold Gallery / Business Annex</name>
+					<description><![CDATA[  <p class="description">Fine Arts, Business Annex</p><h2>Building Directory</h2><div class="directory"><ul>
+	<li>
+		Business Annex
+		<ul style="padding-bottom: 0px; padding-top: 0px;">
+			<li>
+				Accounting and Finance
+				<ul style="padding-bottom: 0px; padding-top: 0px;">
+					<li>
+						Accounting, payroll and financial transactions, purchasing
+					</li>
+				</ul>
+			</li>
+		</ul>
+	</li>
+	<li>
+		First floor
+		<ul style="padding-bottom: 0px; padding-top: 0px;">
+			<li>
+				Eichold Gallery
+			</li>
+			<li>
+				Fine Arts Classrooms
+			</li>
+		</ul>
+	</li>
+	<li>
+		Second floor
+		<ul style="padding-bottom: 0px; padding-top: 0px;">
+			<li>
+				Fine Arts Classrooms
+			</li>
+			<li>
+				Faculty Offices
+			</li>
+		</ul>
+	</li>
+</ul>
+</div>  ]]></description>
+					<styleUrl>#msn_purple-circle</styleUrl>
+					
+						
+						<Point>
+							<coordinates>-88.13773260195615,30.69335901377423,0</coordinates>
+						</Point>
+						
+					
+					
+				</Placemark>
+				
+			
+				
+				<Placemark>
+					<name>Gautrelet Room</name>
+					<description><![CDATA[  <p class="description">Meeting and Lecture Space</p><h2>Building Directory</h2><div class="directory"><br>
+</div> <h2>Tags</h2><div class="tags">events, conference, </div> ]]></description>
+					<styleUrl>#msn_purple-circle</styleUrl>
+					
+						
+						<Point>
+							<coordinates>-88.13654290590907,30.693120939356,0</coordinates>
+						</Point>
+						
+					
+					
+				</Placemark>
+				
+			
+				
+				<Placemark>
+					<name>Golf Course Clubhouse</name>
+					<description><![CDATA[    ]]></description>
+					<styleUrl>#msn_purple-circle</styleUrl>
+					
+						
+						<Point>
+							<coordinates>-88.13553220288364,30.68692913019206,0</coordinates>
+						</Point>
+						
+					
+					
+				</Placemark>
+				
+			
+				
+				<Placemark>
+					<name>Graduate and Continuing Studies</name>
+					<description><![CDATA[  <p class="description">Graduate Studies, Continuing Studies</p><h2>Building Directory</h2><div class="directory"><ul>
+	<li>
+		Ground Floor
+		<ul style="padding-bottom: 0px; padding-top: 0px;">
+			<li>
+				Graduate Studies
+				<ul style="padding-bottom: 0px; padding-top: 0px;">
+					<li>
+						Registration, advising for graduate programs
+					</li>
+				</ul>
+			</li>
+			<li>
+				Continuing Studies
+				<ul style="padding-bottom: 0px; padding-top: 0px;">
+					<li>
+						Registration, advising for continuing education, adult degree programs
+					</li>
+				</ul>
+			</li>
+		</ul>
+	</li>
+</ul>
+</div>  ]]></description>
+					<styleUrl>#msn_purple-circle</styleUrl>
+					
+						
+						<Point>
+							<coordinates>-88.13642700766482,30.69307643745362,0</coordinates>
+						</Point>
+						
+					
+					
+				</Placemark>
+				
+			
+				
+				<Placemark>
+					<name>Jesuit Residences</name>
+					<description><![CDATA[  <h2>Building Directory</h2><div class="directory"><br>
+</div>  ]]></description>
+					<styleUrl>#msn_purple-circle</styleUrl>
+					
+						
+						<Point>
+							<coordinates>-88.1363023512928,30.69783851473834,0</coordinates>
+						</Point>
+						
+					
+					
+				</Placemark>
+				
+			
+				
+				<Placemark>
+					<name>Mobile Hall</name>
+					<description><![CDATA[  <p class="description">Student Residence</p><h2>Building Directory</h2><div class="directory"><br>
+</div>  ]]></description>
+					<styleUrl>#msn_purple-circle</styleUrl>
+					
+						
+						<Point>
+							<coordinates>-88.13928355822746,30.69532845742531,0</coordinates>
+						</Point>
+						
+					
+					
+				</Placemark>
+				
+			
+				
+				<Placemark>
+					<name>Moorer Hall</name>
+					<description><![CDATA[  <p class="description">Communication Arts, Physics</p><h2>Building Directory</h2><div class="directory"><ul>
+	<li>
+		Communication Arts Department
+		<ul style="padding-bottom: 0px; padding-top: 0px;">
+			<li>
+				Darkroom, Classrooms, Mac Lab, Faculty Offices
+			</li>
+		</ul>
+	</li>
+	<li>
+		Physics Department
+	</li>
+	<li>
+		SpringHillian
+		<ul style="padding-bottom: 0px; padding-top: 0px;">
+			<li>
+				Student newspaper
+			</li>
+		</ul>
+	</li>
+	<li>
+		The Torch
+		<ul style="padding-bottom: 0px; padding-top: 0px;">
+			<li>
+				Student yearbook
+			</li>
+		</ul>
+	</li>
+</ul>
+</div> <h2>Tags</h2><div class="tags">computer lab</div> ]]></description>
+					<styleUrl>#msn_purple-circle</styleUrl>
+					
+						
+						<Point>
+							<coordinates>-88.14136140280662,30.69464491659189,0</coordinates>
+						</Point>
+						
+					
+					
+				</Placemark>
+				
+			
+				
+				<Placemark>
+					<name>Nan Altmayer Place</name>
+					<description><![CDATA[  <p class="description">Welcome Center, Admissions, President&#39;s Office</p><h2>Building Directory</h2><div class="directory"><ul>
+	<li>
+		First floor
+		<ul style="padding-bottom: 0px; padding-top: 0px;">
+			<li>
+				Admissions
+				<ul style="padding-bottom: 0px; padding-top: 0px;">
+					<li>
+						251-380-3030, 800-742-6704
+						<br>
+					</li>
+					<li>
+						Undergraduate admissions, prospective student information, campus tours
+					</li>
+				</ul>
+			</li>
+		</ul>
+	</li>
+	<li>
+		Second floor
+		<ul style="padding-bottom: 0px; padding-top: 0px;">
+			<li>
+				President's Office
+			</li>
+			<li>
+				Administrative and Admissions Offices
+			</li>
+		</ul>
+	</li>
+</ul>
+</div> <h2>Tags</h2><div class="tags">admissions, president</div> ]]></description>
+					<styleUrl>#msn_purple-circle</styleUrl>
+					
+						
+						<Point>
+							<coordinates>-88.13652913242719,30.69364474396713,0</coordinates>
+						</Point>
+						
+					
+					
+				</Placemark>
+				
+			
+				
+				<Placemark>
+					<name>New Residence Hall</name>
+					<description><![CDATA[  <p class="description">Student Residence</p><h2>Building Directory</h2><div class="directory"><ul>
+	<li>
+		Classrooms
+	</li>
+	<li>
+		Student Housing
+	</li>
+</ul>
+</div> <h2>Tags</h2><div class="tags">dorm</div> ]]></description>
+					<styleUrl>#msn_purple-circle</styleUrl>
+					
+						
+						<Point>
+							<coordinates>-88.13527788217657,30.69364206547695,0</coordinates>
+						</Point>
+						
+					
+					
+				</Placemark>
+				
+			
+				
+				<Placemark>
+					<name>O&#39;Leary Hall</name>
+					<description><![CDATA[  <p class="description">Student Residence</p><h2>Building Directory</h2><div class="directory"><br>
+</div> <h2>Tags</h2><div class="tags">dorm, </div> ]]></description>
+					<styleUrl>#msn_purple-circle</styleUrl>
+					
+						
+						<Point>
+							<coordinates>-88.14039021865341,30.69695824842631,0</coordinates>
+						</Point>
+						
+					
+					
+				</Placemark>
+				
+			
+				
+				<Placemark>
+					<name>Plant Operations</name>
+					<description><![CDATA[  <p class="description">Physical Plant, Shipping/Receiving</p><h2>Building Directory</h2><div class="directory"><br>
+</div>  ]]></description>
+					<styleUrl>#msn_purple-circle</styleUrl>
+					
+						
+						<Point>
+							<coordinates>-88.13640356973552,30.69109975613562,0</coordinates>
+						</Point>
+						
+					
+					
+				</Placemark>
+				
+			
+				
+				<Placemark>
+					<name>Quinlan Hall</name>
+					<description><![CDATA[  <p class="description">Classrooms, Faculty Offices</p><h2>Building Directory</h2><div class="directory"><ul>
+	<li>
+		Ground Floor
+		<ul style="padding-bottom: 0px; padding-top: 0px;">
+			<li>
+				Division of Nursing
+			</li>
+		</ul>
+	</li>
+	<li>
+		Third Floor
+		<ul style="padding-bottom: 0px; padding-top: 0px;">
+			<li>
+				Social Sciences Division
+			</li>
+			<li>
+				History
+			</li>
+			<li>
+				Political Science
+			</li>
+			<li>
+				Psychology
+			</li>
+			<li>
+				Sociology
+			</li>
+		</ul>
+	</li>
+</ul>
+</div>  ]]></description>
+					<styleUrl>#msn_purple-circle</styleUrl>
+					
+						
+						<Point>
+							<coordinates>-88.1380742306676,30.69292415559161,0</coordinates>
+						</Point>
+						
+					
+					
+				</Placemark>
+				
+			
+				
+				<Placemark>
+					<name>Rev. Gregory F. Lucey Administration Center</name>
+					<description><![CDATA[  <h2>Building Directory</h2><div class="directory"><ul>
+	<li>
+		First floor
+		<ul style="padding-bottom: 0px; padding-top: 0px;">
+			<li>
+				Financial Aid
+				<ul style="padding-bottom: 0px; padding-top: 0px;">
+					<li>
+						Financial aid, scholarships
+					</li>
+				</ul>
+			</li>
+			<li>
+				Registrar
+				<ul style="padding-bottom: 0px; padding-top: 0px;">
+					<li>
+						Transcripts, course schedules, registration
+					</li>
+				</ul>
+			</li>
+			<li>
+				Cashier and Student Accounts
+			</li>
+			<li>
+				Human Resources
+				<ul style="padding-bottom: 0px; padding-top: 0px;">
+					<li>
+						Personnel matters, benefits, and campus policies
+					</li>
+				</ul>
+			</li>
+			<li>
+				Student Academic Services
+				<ul style="padding-bottom: 0px; padding-top: 0px;">
+					<li>
+						Career services, academic support, and transfer student services
+					</li>
+				</ul>
+			</li>
+			<li>
+				Teacher Education Library
+			</li>
+		</ul>
+	</li>
+	<li>
+		Second floor
+		<ul style="padding-bottom: 0px; padding-top: 0px;">
+			<li>
+				Department of Mathematics
+			</li>
+			<li>
+				Albert S. Foley, S.J. Community Service Center
+				<ul style="padding-bottom: 0px; padding-top: 0px;">
+					<li>
+						Coordinates volunteer activities for students, staff and faculty
+					</li>
+				</ul>
+			</li>
+			<li>
+				Academic Affairs
+				<ul style="padding-bottom: 0px; padding-top: 0px;">
+					<li>
+						General academic policy, student academic status
+					</li>
+				</ul>
+			</li>
+			<li>
+				Teacher Education
+			</li>
+			<li>
+				Upward Bound
+			</li>
+			<li>
+				Faculty and Staff Commons
+			</li>
+		</ul>
+	</li>
+	<li>
+		Third floor
+		<ul style="padding-bottom: 0px; padding-top: 0px;">
+			<li>
+				Languages and Literature
+				<ul style="padding-bottom: 0px; padding-top: 0px;">
+					<li>
+						English, Writing, Foreign Languages
+					</li>
+				</ul>
+			</li>
+			<li>
+				Philosophy and Theology
+			</li>
+		</ul>
+	</li>
+</ul>
+</div> <h2>Tags</h2><div class="tags">math</div> ]]></description>
+					<styleUrl>#msn_purple-circle</styleUrl>
+					
+						
+						<Point>
+							<coordinates>-88.13695569672454,30.69309776331919,0</coordinates>
+						</Point>
+						
+					
+					
+				</Placemark>
+				
+			
+				
+				<Placemark>
+					<name>Skip&#39;s Place</name>
+					<description><![CDATA[  <p class="description">Student Residence</p><h2>Building Directory</h2><div class="directory"><br>
+</div> <h2>Tags</h2><div class="tags">dorm, </div> ]]></description>
+					<styleUrl>#msn_purple-circle</styleUrl>
+					
+						
+						<Point>
+							<coordinates>-88.13597807711938,30.69596565445236,0</coordinates>
+						</Point>
+						
+					
+					
+				</Placemark>
+				
+			
+				
+				<Placemark>
+					<name>Sodalilty Chapel</name>
+					<description><![CDATA[  <p class="description">Small congregations and religious exercises</p><h2>Building Directory</h2><div class="directory"><br>
+</div> <h2>Tags</h2><div class="tags">church, </div> ]]></description>
+					<styleUrl>#msn_purple-circle</styleUrl>
+					
+						
+						<Point>
+							<coordinates>-88.13530276964948,30.69229619937437,0</coordinates>
+						</Point>
+						
+					
+					
+				</Placemark>
+				
+			
+				
+				<Placemark>
+					<name>St. Joseph Chapel</name>
+					<description><![CDATA[  <h2>Building Directory</h2><div class="directory"><br>
+</div> <h2>Tags</h2><div class="tags">church, saint, worship, </div> ]]></description>
+					<styleUrl>#msn_purple-circle</styleUrl>
+					
+						
+						<Point>
+							<coordinates>-88.1370996997708,30.69373971489458,0</coordinates>
+						</Point>
+						
+					
+					
+				</Placemark>
+				
+			
+				
+				<Placemark>
+					<name>Stan Galle Field</name>
+					<description><![CDATA[  <p class="description">Intercollegiate Baseball</p><h2>Building Directory</h2><div class="directory"><br>
+</div>  ]]></description>
+					<styleUrl>#msn_purple-circle</styleUrl>
+					
+						
+						<Point>
+							<coordinates>-88.13781567191154,30.69240111546003,0</coordinates>
+						</Point>
+						
+					
+					
+				</Placemark>
+				
+			
+				
+				<Placemark>
+					<name>Stewartfield</name>
+					<description><![CDATA[  <p class="description">Event and Conference Facilities</p><h2>Building Directory</h2><div class="directory"><ul>
+	<li>
+		Houses receptions for campus and local community
+		<br>
+	</li>
+</ul>
+</div> <h2>Tags</h2><div class="tags">wedding, events, conference, </div> ]]></description>
+					<styleUrl>#msn_purple-circle</styleUrl>
+					
+						
+						<Point>
+							<coordinates>-88.14215631104709,30.69418463928169,0</coordinates>
+						</Point>
+						
+					
+					
+				</Placemark>
+				
+			
+				
+				<Placemark>
+					<name>Stonisch Field House</name>
+					<description><![CDATA[  <p class="description">Baseball Field House</p><h2>Building Directory</h2><div class="directory"><br>
+</div>  ]]></description>
+					<styleUrl>#msn_purple-circle</styleUrl>
+					
+						
+						<Point>
+							<coordinates>-88.13849506923574,30.69251682146737,0</coordinates>
+						</Point>
+						
+					
+					
+				</Placemark>
+				
+			
+				
+				<Placemark>
+					<name>Student Center</name>
+					<description><![CDATA[  <h2>Building Directory</h2><div class="directory"><ul>
+	<li>
+		First Floor
+		<ul style="padding-bottom: 0px; padding-top: 0px;">
+			<li>
+				Marketplace
+				<ul style="padding-bottom: 0px; padding-top: 0px;">
+					<li>
+						Student dining
+					</li>
+				</ul>
+			</li>
+			<li>
+				The Cloister
+				<ul style="padding-bottom: 0px; padding-top: 0px;">
+					<li>
+						Grill and snackbar
+					</li>
+				</ul>
+			</li>
+			<li>
+				Bookstore
+				<ul style="padding-bottom: 0px; padding-top: 0px;">
+					<li>
+						Textbooks, school supplies, magazines, school apparel and snacks
+					</li>
+				</ul>
+			</li>
+		</ul>
+	</li>
+	<li>
+		Second Floor
+		<ul style="padding-bottom: 0px; padding-top: 0px;">
+			<li>
+				Campus Ministry
+				<ul style="padding-bottom: 0px; padding-top: 0px;">
+					<li>
+						Volunteer community services, retreats, confidential counseling and spiritual direction
+					</li>
+				</ul>
+			</li>
+			<li>
+				Facility Management and Rentals
+			</li>
+			<li>
+				Student Affairs
+				<ul style="padding-bottom: 0px; padding-top: 0px;">
+					<li>
+						Student leadership and involvement, Greek life, campus programming
+					</li>
+				</ul>
+			</li>
+			<li>
+				Residence Life
+				<ul style="padding-bottom: 0px; padding-top: 0px;">
+					<li>
+						Housing assignments, residential policies and programming, campus events and planning, coordination of Greek life activities and policies
+					</li>
+				</ul>
+			</li>
+			<li>
+				Facility management and rentals
+			</li>
+		</ul>
+	</li>
+</ul>
+</div> <h2>Tags</h2><div class="tags">wedding, events, conference</div> ]]></description>
+					<styleUrl>#msn_purple-circle</styleUrl>
+					
+						
+						<Point>
+							<coordinates>-88.1383606190026,30.69464238172925,0</coordinates>
+						</Point>
+						
+					
+					
+				</Placemark>
+				
+			
+				
+				<Placemark>
+					<name>Toolen Hall</name>
+					<description><![CDATA[  <p class="description">Student Residence</p><h2>Building Directory</h2><div class="directory"><ul>
+	<li>
+		First Floor West
+		<ul style="padding-bottom: 0px; padding-top: 0px;">
+			<li>
+				Wellness Center
+				<ul style="padding-bottom: 0px; padding-top: 0px;">
+					<li>
+						Confidential personal counseling and health services, health and wellness information literature, referrals to community resources.
+					</li>
+				</ul>
+			</li>
+		</ul>
+	</li>
+</ul>
+</div> <h2>Tags</h2><div class="tags">nurse, doctor</div> ]]></description>
+					<styleUrl>#msn_purple-circle</styleUrl>
+					
+						
+						<Point>
+							<coordinates>-88.1408423173492,30.69744273869384,0</coordinates>
+						</Point>
+						
+					
+					
+				</Placemark>
+				
+			
+				
+				<Placemark>
+					<name>Viragh Hall</name>
+					<description><![CDATA[  <p class="description">Student Residence</p><h2>Building Directory</h2><div class="directory"><br>
+</div> <h2>Tags</h2><div class="tags">dorm, </div> ]]></description>
+					<styleUrl>#msn_purple-circle</styleUrl>
+					
+						
+						<Point>
+							<coordinates>-88.13604179629533,30.69679387220501,0</coordinates>
+						</Point>
+						
+					
+					
+				</Placemark>
+				
+			
+				
+				<Placemark>
+					<name>Walsh Annex</name>
+					<description><![CDATA[  <p class="description">Mailroom</p> <h2>Tags</h2><div class="tags">mail,postal,post office</div> ]]></description>
+					<styleUrl>#msn_purple-circle</styleUrl>
+					
+						
+						<Point>
+							<coordinates>-88.13902318464133,30.69394101792153,0</coordinates>
+						</Point>
+						
+					
+					
+				</Placemark>
+				
+			
+				
+				<Placemark>
+					<name>Walsh Hall</name>
+					<description><![CDATA[  <p class="description">Student Residence</p><h2>Building Directory</h2><div class="directory"><ul>
+	<li>
+		Annex
+		<ul style="padding-bottom: 0px; padding-top: 0px;">
+			<li>
+				Mail Room
+			</li>
+		</ul>
+	</li>
+	<li>
+		Second and third floors
+		<ul style="padding-bottom: 0px; padding-top: 0px;">
+			<li>
+				Student Housing
+			</li>
+		</ul>
+	</li>
+</ul>
+</div> <h2>Tags</h2><div class="tags">dorm, mailroom, postal</div> ]]></description>
+					<styleUrl>#msn_purple-circle</styleUrl>
+					
+						
+						<Point>
+							<coordinates>-88.13928982739078,30.69379271530829,0</coordinates>
+						</Point>
+						
+					
+					
+				</Placemark>
+				
+			
+				
+				<Placemark>
+					<name>Yancey Hall</name>
+					<description><![CDATA[  <p class="description">Biology Department</p><h2>Building Directory</h2><div class="directory"><ul>
+	<li>
+		Classrooms
+	</li>
+	<li>
+		Labs
+	</li>
+	<li>
+		Faculty Offices
+	</li>
+</ul>
+</div> <h2>Tags</h2><div class="tags">marine</div> ]]></description>
+					<styleUrl>#msn_purple-circle</styleUrl>
+					
+						
+						<Point>
+							<coordinates>-88.14021243776425,30.69520407090884,0</coordinates>
+						</Point>
+						
+					
+					
+				</Placemark>
+				
+			
+				
+				<Placemark>
+					<name>Yenni Hall</name>
+					<description><![CDATA[  <p class="description">Division of Business</p><h2>Building Directory</h2><div class="directory"><ul>
+	<li>
+		First and second floor
+		<ul style="padding-bottom: 0px; padding-top: 0px;">
+			<li>
+				Classrooms
+			</li>
+		</ul>
+	</li>
+	<li>
+		Third floor
+		<ul style="padding-bottom: 0px; padding-top: 0px;">
+			<li>
+				Faculty Offices
+			</li>
+		</ul>
+	</li>
+</ul>
+</div>  ]]></description>
+					<styleUrl>#msn_purple-circle</styleUrl>
+					
+						
+						<Point>
+							<coordinates>-88.1381328271796,30.69352906002796,0</coordinates>
+						</Point>
+						
+					
+					
+				</Placemark>
+				
+			
+		</Folder>
+		
+	
+		
+		<Folder>
+			<name>Outdoor Area</name>
+			
+				
+				<Placemark>
+					<name>Dorn Field</name>
+					<description><![CDATA[  <p class="description">Intramurals and Recreation</p><h2>Building Directory</h2><div class="directory"><ul>
+	<li>
+		Intramurals and Recreation
+		<br>
+	</li>
+</ul>
+</div>  ]]></description>
+					<styleUrl>#msn_purple-circle</styleUrl>
+					
+						
+						<Point>
+							<coordinates>-88.14240111629556,30.69599333915594,0</coordinates>
+						</Point>
+						
+					
+					
+				</Placemark>
+				
+			
+				
+				<Placemark>
+					<name>Eisele Outdoor Learning Center</name>
+					<description><![CDATA[  <p class="description">Outdoor Study and Reflection</p><h2>Building Directory</h2><div class="directory"><br>
+</div>  ]]></description>
+					<styleUrl>#msn_purple-circle</styleUrl>
+					
+						
+						<Point>
+							<coordinates>-88.1368391253083,30.69396351434676,0</coordinates>
+						</Point>
+						
+					
+					
+				</Placemark>
+				
+			
+				
+				<Placemark>
+					<name>Golf Course</name>
+					<description><![CDATA[  <p class="description">Golf Course, Pro Shop, Snack Bar</p><h2>Building Directory</h2><div class="directory"><p>
+	1-251-380-4655
+</p>
+</div> <h2>Tags</h2><div class="tags">food, golf, clothing, clubs</div> ]]></description>
+					<styleUrl>#msn_purple-circle</styleUrl>
+					
+						
+						<Point>
+							<coordinates>-88.13553220288364,30.68692913019206,0</coordinates>
+						</Point>
+						
+					
+					
+				</Placemark>
+				
+			
+				
+				<Placemark>
+					<name>Jesuit Cemetery</name>
+					<description><![CDATA[  <h2>Building Directory</h2><div class="directory"><br>
+</div>  ]]></description>
+					<styleUrl>#msn_purple-circle</styleUrl>
+					
+						
+						<Point>
+							<coordinates>-88.13559226641549,30.69305369899105,0</coordinates>
+						</Point>
+						
+					
+					
+				</Placemark>
+				
+			
+				
+				<Placemark>
+					<name>McLean Plaza</name>
+					<description><![CDATA[  <p class="description">Outdoor Learning Area</p><h2>Building Directory</h2><div class="directory"><br>
+</div>  ]]></description>
+					<styleUrl>#msn_purple-circle</styleUrl>
+					
+						
+						<Point>
+							<coordinates>-88.13890827186665,30.69472592346447,0</coordinates>
+						</Point>
+						
+					
+					
+				</Placemark>
+				
+			
+				
+				<Placemark>
+					<name>Peace Garden</name>
+					<description><![CDATA[  <p class="description">Outdoor Reflection Area</p><h2>Building Directory</h2><div class="directory"><br>
+</div>  ]]></description>
+					<styleUrl>#msn_purple-circle</styleUrl>
+					
+						
+						<Point>
+							<coordinates>-88.13550173300068,30.69257175934131,0</coordinates>
+						</Point>
+						
+					
+					
+				</Placemark>
+				
+			
+				
+				<Placemark>
+					<name>Quinlan Quad</name>
+					<description><![CDATA[  <p class="description">Outdoor Area</p><h2>Building Directory</h2><div class="directory"><br>
+</div>  ]]></description>
+					<styleUrl>#msn_purple-circle</styleUrl>
+					
+						
+						<Point>
+							<coordinates>-88.1380994631965,30.6932521733493,0</coordinates>
+						</Point>
+						
+					
+					
+				</Placemark>
+				
+			
+				
+				<Placemark>
+					<name>Rydex Commons</name>
+					<description><![CDATA[  <p class="description">Outdoor Area</p><h2>Building Directory</h2><div class="directory"><br>
+</div>  ]]></description>
+					<styleUrl>#msn_purple-circle</styleUrl>
+					
+						
+						<Point>
+							<coordinates>-88.13730029413846,30.69437933500828,0</coordinates>
+						</Point>
+						
+					
+					
+				</Placemark>
+				
+			
+				
+				<Placemark>
+					<name>Soccer Field</name>
+					<description><![CDATA[  <p class="description">Intercollegiate Soccer</p><h2>Building Directory</h2><div class="directory"><br>
+</div>  ]]></description>
+					<styleUrl>#msn_purple-circle</styleUrl>
+					
+						
+						<Point>
+							<coordinates>-88.14120445580386,30.6963079909961,0</coordinates>
+						</Point>
+						
+					
+					
+				</Placemark>
+				
+			
+				
+				<Placemark>
+					<name>Softball Field</name>
+					<description><![CDATA[  <p class="description">Intercollegiate Softball</p><h2>Building Directory</h2><div class="directory"><br>
+</div>  ]]></description>
+					<styleUrl>#msn_purple-circle</styleUrl>
+					
+						
+						<Point>
+							<coordinates>-88.13754038176427,30.69663404978217,0</coordinates>
+						</Point>
+						
+					
+					
+				</Placemark>
+				
+			
+				
+				<Placemark>
+					<name>South Lawn</name>
+					<description><![CDATA[  <h2>Building Directory</h2><div class="directory"><br>
+</div>  ]]></description>
+					<styleUrl>#msn_purple-circle</styleUrl>
+					
+						
+						<Point>
+							<coordinates>-88.13683278089151,30.69242282555055,0</coordinates>
+						</Point>
+						
+					
+					
+				</Placemark>
+				
+			
+				
+				<Placemark>
+					<name>Statue Garden</name>
+					<description><![CDATA[  <p class="description">Outdoor Reflection Area</p><h2>Building Directory</h2><div class="directory"><br>
+</div> <h2>Tags</h2><div class="tags">&quot;Rites of Passage&quot; statue, statue</div> ]]></description>
+					<styleUrl>#msn_purple-circle</styleUrl>
+					
+						
+						<Point>
+							<coordinates>-88.13787211930723,30.69394723801995,0</coordinates>
+						</Point>
+						
+					
+					
+				</Placemark>
+				
+			
+				
+				<Placemark>
+					<name>Tennis Courts - Mobile Hall</name>
+					<description><![CDATA[  <h2>Building Directory</h2><div class="directory"><br>
+</div> <h2>Tags</h2><div class="tags">Tennis, </div> ]]></description>
+					<styleUrl>#msn_purple-circle</styleUrl>
+					
+						
+						<Point>
+							<coordinates>-88.13932938829346,30.69469562094086,0</coordinates>
+						</Point>
+						
+					
+					
+				</Placemark>
+				
+			
+		</Folder>
+		
+	
+	
+</Document>
+</kml>
